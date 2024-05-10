@@ -20,3 +20,11 @@ For browsing charts with dark trends and for scanning/screening, use `DarkTrend 
 .. image:: explorer.png
    :alt: Screenshot of the DarkTrend Explorer
 
+DarkTrend Explorer
+------------------
+
+For browsing correlations, market topology (raw or based on dark trends) use `DarkTrend Correlation <https://darktrend.com/correlation>`_.
+
+.. image:: darktrend-topology.png
+   :alt: Screenshot of the DarkTrend Correlation
+
