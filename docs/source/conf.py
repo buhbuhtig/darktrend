@@ -19,7 +19,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx_rtd_dark_mode',
 ]
-html_static_path = ['_static']
+# html_static_path = ['_static']
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
@@ -30,7 +30,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
 # html_css_files = [
 #     'css/rtd_dark2.css',
 # ]
