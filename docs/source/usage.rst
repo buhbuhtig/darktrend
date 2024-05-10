@@ -6,11 +6,11 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
-
+To use DarkTrend API, first install it using pip:
+.. |hidden_param| replace:: ████
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ pip install |hidden_param|
 
 Creating recipes
 ----------------
