@@ -7,10 +7,10 @@ Installation
 ------------
 
 To use DarkTrend API, first install it using pip:
-.. |hidden_param| replace:: ████
+
 .. code-block:: console
 
-   (.venv) $ pip install |hidden_param|
+   (.venv) $ pip install ████
 
 Creating recipes
 ----------------
