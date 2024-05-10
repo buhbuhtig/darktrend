@@ -34,6 +34,6 @@ html_theme = 'sphinx_rtd_theme'
 # html_css_files = [
 #     'css/rtd_dark2.css',
 # ]
-# default_dark_mode = True
+default_dark_mode = True
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
