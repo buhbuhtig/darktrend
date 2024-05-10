@@ -16,7 +16,8 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx'
+    'sphinx.ext.intersphinx',
+    'sphinx_rtd_dark_mode'
 ]
 # html_static_path = ['_static']
 intersphinx_mapping = {
