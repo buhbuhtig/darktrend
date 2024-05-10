@@ -13,7 +13,7 @@ To use DarkTrend API, first install it using pip:
    (.venv) $ pip install ████
 
 DarkTrend Explorer
-----------------
+------------------
 
 For browsing charts with dark trends and for scanning/screening, visit: `darktrend.com/explorer <https://darktrend.com/explorer>`_.
 
