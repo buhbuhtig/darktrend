@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to DarkTrend.com documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**DarkTrend.com** DarkTrend.com is dedicated to *uncovering hidden market trends* using advanced statistical methods, including Bayesian inference and proprietary algorithms. The platform focuses on decoding complex, noisy, and non-linear financial data to provide actionable insights. Additionally, DarkTrend is developing an *API* to enable easier access to its data, aiming to enhance user engagement and analytical capabilities for developers and data scientists. This initiative will further empower users to leverage DarkTrend's insights for informed decision-making in volatile markets.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`usage` section for further information.
 
 .. note::
 
