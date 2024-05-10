@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'DarkTrend.com'
+copyright = '2024, DarkTrend'
+author = 'Joe Turner'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.1.567'
 
 # -- General configuration
 
